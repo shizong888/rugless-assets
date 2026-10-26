@@ -1,0 +1,17 @@
+{
+  "name": "Rugless Buckle",
+  "symbol": "BUCKLE",
+  "description": "Buckle is Rugless's rolled-up rug mascot. This Devnet-only token tests artwork, metadata, an atomic Pump.fun launch and burning the full initial purchase. Test token only; no monetary value.",
+  "image": "https://raw.githubusercontent.com/shizong888/rugless-assets/main/token.png",
+  "showName": true,
+  "createdOn": "https://pump.fun",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/shizong888/rugless-assets/main/token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
